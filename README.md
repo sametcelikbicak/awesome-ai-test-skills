@@ -47,6 +47,7 @@ git clone https://github.com/omkamal/pypict-claude-skill ~/.claude/skills/pypict
 | Skill | 作者 | Stars | 功能 | 安装 |
 |-------|------|-------|------|------|
 | [pypict-skill](https://github.com/omkamal/pypict-claude-skill) | omkamal | 51 | 基于 PICT 算法的组合测试用例生成，最少用例覆盖最多参数组合 | `omkamal/pypict-claude-skill` |
+| [coverage-guard](https://github.com/sametcelikbicak/coverage-guard) | sametcelikbicak | 1 | 自动检测测试覆盖率缺口并生成缺失测试，确保100%覆盖率 | `sametcelikbicak/coverage-guard` |
 
 ### 🔧 Test Fixing & Debugging
 
@@ -54,6 +55,7 @@ git clone https://github.com/omkamal/pypict-claude-skill ~/.claude/skills/pypict
 |-------|------|-------|------|------|
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace) | mhattingpete | 473 | 智能分组失败测试，识别相同根因，批量修复 | `mhattingpete/claude-skills-marketplace` |
 | [systematic-debugging](https://github.com/obra/superpowers) | obra | 85k+ | 四阶段根因分析：收集→追踪→分析→验证 | `obra/superpowers` |
+| [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) | sametcelikbicak | 1 | 检测非确定性测试失败，分类根本原因并应用针对性修复 | `sametcelikbicak/flaky-test-detector` |
 
 ### 🧬 Development Methodology
 
@@ -61,6 +63,7 @@ git clone https://github.com/omkamal/pypict-claude-skill ~/.claude/skills/pypict
 |-------|------|-------|------|------|
 | [test-driven-development](https://github.com/obra/superpowers) | obra | 85k+ | 严格 Red-Green-Refactor 循环，YAGNI + DRY 原则 | `obra/superpowers` |
 | [verification-before-completion](https://github.com/obra/superpowers) | obra | 85k+ | 完成前强制验证，evidence before assertions | `obra/superpowers` |
+| [task-decomposer](https://github.com/sametcelikbicak/task-decomposer) | sametcelikbicak | 1 | 将复杂请求分解为结构化、AI友好的任务序列，优化上下文窗口使用 | `sametcelikbicak/task-decomposer` |
 
 ---
 
